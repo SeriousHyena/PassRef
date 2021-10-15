@@ -19,6 +19,7 @@ int main()
 	return 0;
 }
 
+//this function divides the input by 6 then returns the result
 void passRef(float input, float& output)
 {
 	output = input / 6;
